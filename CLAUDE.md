@@ -37,3 +37,11 @@ The framework follows semantic versioning (MAJOR.MINOR.PATCH). Update the versio
 - MAJOR: A fundamental shift in the framework. This includes adding or removing a guiding principle, restructuring the principle hierarchy, or changing the core ethical foundations the framework is built on. A major bump means the framework reasons differently than it did before.
 - MINOR: New content that expands the framework without changing its foundations. This includes adding a new section, introducing a new reference or thinker, expanding an existing principle with new ideas, or adding a new example. The framework covers more ground but reasons the same way.
 - PATCH: Surface-level corrections that do not change meaning. This includes fixing typos, applying writing style rules, cleaning up citation formatting, rewording for clarity, and fixing APA errors in the References section.
+
+## Changelog
+
+The repository keeps a `CHANGELOG.md` file. Update it on every change going forward. The changelog is the running record of how the framework has grown over time.
+
+When you bump the version, add a matching entry to the changelog. Use the format already in the file. Each entry has a version heading, a date, and a short description of what changed.
+
+Group the entry under the new version number. If an entry for the current version already exists, add to it rather than creating a duplicate. Write the description in prose that follows the writing style rules above. Note whether the change was a MAJOR, MINOR, or PATCH revision.
