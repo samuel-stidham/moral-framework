@@ -6,11 +6,18 @@ A personal moral and ethical framework built on five formal ethical systems stud
 
 - `framework.md` contains the framework itself.
 - `CLAUDE.md` contains the writing and revision rules for this repository.
+- `CHANGELOG.md` records the changes for each version.
+- `docs/` contains repository guides, including how to tag releases.
+- `scripts/` and the `Makefile` provide the release tagging tooling.
 - `LICENSE` contains the CC BY 4.0 license.
 
 ## Versioning
 
 This document follows semantic versioning (MAJOR.MINOR.PATCH). See `CLAUDE.md` for the full versioning rules.
+
+## Releasing
+
+Releases are tagged from the latest `CHANGELOG.md` entry using the `Makefile` and `scripts/tag-release.sh`. See [docs/RELEASING.md](docs/RELEASING.md) for the full guide.
 
 ## License
 
