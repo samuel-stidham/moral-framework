@@ -20,6 +20,8 @@ All prose in this repository must follow these rules.
 
 This document uses APA 7th edition format. Always include parenthetical citations inline where claims appear. Always include a full References section at the end of the document. Do not remove or alter existing citations without explicit instruction.
 
+Always ask the user before adding, removing, or altering any reference or citation. Confirm the exact change first, then wait for approval. This applies even when a citation looks wrong, mismatched, or incomplete. In that case, surface the issue and wait for direction rather than fixing it on your own.
+
 ## Revision Rules
 
 When revising this document, follow these constraints.

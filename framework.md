@@ -1,4 +1,4 @@
-# My Moral Framework - Version 2.0.3
+# My Moral Framework - Version 2.1.0
 
 ## Preamble
 
@@ -42,7 +42,7 @@ To figure out what is truly fair, Rawls gave us a powerful thought experiment ca
 
 ## My Guiding Principles: A Synthesis
 
-The principles that follow are the rebuilt version 2.0.3 of my ethical framework. They are my attempt to synthesize my personal intuition with the insights of the formal frameworks I have studied. Each principle builds on the one before it. It starts with the bedrock of justice and moves toward its application in the real world.
+The principles that follow are the rebuilt version 2.1.0 of my ethical framework. They are my attempt to synthesize my personal intuition with the insights of the formal frameworks I have studied. Each principle builds on the one before it. It starts with the bedrock of justice and moves toward its application in the real world.
 
 ### 1. Justice Through the Veil of Ignorance
 
@@ -66,11 +66,11 @@ Ultimately, justice tells me what is _fair_. This principle of compassionate act
 
 With a foundation of justice and a guide of compassion, this third principle governs the _character_ of my actions and interactions. It is a direct application of the **Virtue Framework**. This framework shifts the focus from "What is the right action?" to "What kind of person do I want to be?" It is my commitment to engage with the world in a way that reflects the virtues I aim to cultivate.
 
-The core of this principle is **integrity**, which I define as a synthesis of honesty and a refusal to cause harm. This refusal to cause harm is my personal adoption of the Non-Aggression Principle. While the NAP is a foundational concept in libertarian thought, I do not embrace it as a political statement. I embrace it as a universal ethical boundary for peaceful interaction. It complements any philosophy centered on compassion and respect for individual autonomy. It aligns directly with professional standards like the ACM Code of Ethics, which mandates that one must "Avoid harm." This sets a clear and unambiguous boundary for all my interactions (Van der Vossen, n.d.).
+The core of this principle is **integrity**, which I define as a synthesis of honesty and a refusal to cause harm. This refusal to cause harm is my personal adoption of the Non-Aggression Principle. While the NAP is a foundational concept in libertarian thought, I do not embrace it as a political statement (Van der Vossen, n.d.). I embrace it as a universal ethical boundary for peaceful interaction. It complements any philosophy centered on compassion and respect for individual autonomy. It aligns directly with professional standards like the ACM Code of Ethics, which mandates that one must "Avoid harm" (Association for Computing Machinery [ACM], 2018). This sets a clear and unambiguous boundary for all my interactions. As a software engineer, I also hold myself to the Software Engineering Code of Ethics and Professional Practice (ACM, 1999).
 
-Beyond simply avoiding harm, this principle calls for **thoughtful engagement**. It is a commitment to approach conversations and disagreements with reason, care, and honesty, rather than emotional reactivity. It means upholding the dignity of others, even when challenging their ideas. Even humor, when used, should serve this virtuous end, to build understanding and diffuse tension, never to demean. Ultimately, this principle ensures that my conduct is a consistent reflection of the person I strive to be.
+Beyond simply avoiding harm, this principle calls for **thoughtful engagement**. It is a commitment to approach conversations and disagreements with reason, care, and honesty, rather than emotional reactivity. It means upholding the dignity of others, even when challenging their ideas. Even humor, when used, should serve this virtuous end, to build understanding and defuse tension, never to demean. Ultimately, this principle ensures that my conduct is a consistent reflection of the person I strive to be.
 
-(SNHU, 2025; Van der Vossen, n.d.; Velasquez et al., n.d.).
+(ACM, 1999, 2018; SNHU, 2025; Van der Vossen, n.d.; Velasquez et al., n.d.).
 
 ### 4. The Pursuit of Wisdom: A Commitment to Growth and Truth
 
@@ -84,13 +84,17 @@ Above all, this principle is an embrace of **continuous learning**. It is the ex
 
 ## References
 
+Association for Computing Machinery. (1999). _Software engineering code of ethics and professional practice_ (Version 5.2). [https://www.acm.org/code-of-ethics/software-engineering-code](https://www.acm.org/code-of-ethics/software-engineering-code)
+
+Association for Computing Machinery. (2018). _ACM code of ethics and professional conduct_. [https://www.acm.org/code-of-ethics](https://www.acm.org/code-of-ethics)
+
 Law, S. (2011). _Humanism: A very short introduction_. Oxford University Press.
 
 Rawls, J. (1971). _A theory of justice_. The Belknap Press of Harvard University Press.
 
 Sander-Staudt, M. (n.d.). _Care ethics_. The Internet Encyclopedia of Philosophy. Retrieved October 19, 2025, from [https://iep.utm.edu/care-eth/](https://iep.utm.edu/care-eth/)
 
-Southern New Hampshire University. (2025). _Module One Guide_. PHL260.
+Southern New Hampshire University. (2025). _PHL-260: Ethical problem-solving_ [Course materials].
 
 United Nations. (1948). _Universal declaration of human rights_. [https://www.un.org/en/about-us/universal-declaration-of-human-rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 

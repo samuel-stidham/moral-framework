@@ -4,6 +4,10 @@ All notable changes to this framework are documented in this file.
 
 This project follows semantic versioning (MAJOR.MINOR.PATCH). See `CLAUDE.md` for the full versioning rules.
 
+## [2.1.0] - 2026-06-26
+
+Added two ACM references and cited them in Principle 3. Added the ACM Code of Ethics and Professional Conduct (2018) for the "Avoid harm" boundary. Added the Software Engineering Code of Ethics and Professional Practice (1999) as the profession-specific standard the author follows as a software engineer. Moved the Van der Vossen citation to the Non-Aggression Principle sentence it supports. This is a MINOR revision.
+
 ## [2.0.3] - 2026-06-26
 
 Applied writing style rules from `CLAUDE.md` across the entire document. Fixed citation formatting inconsistencies in the References section to match APA 7th edition. Reformatted the post-paragraph APA citations under each principle into clean parenthetical lines. No ideas, arguments, or references were added or removed. This is a patch revision only.
