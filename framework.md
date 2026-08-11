@@ -1,4 +1,4 @@
-# My Moral Framework - Version 2.1.0
+# My Moral Framework - Version 2.2.0
 
 ## Preamble
 
@@ -66,11 +66,11 @@ Ultimately, justice tells me what is _fair_. This principle of compassionate act
 
 With a foundation of justice and a guide of compassion, this third principle governs the _character_ of my actions and interactions. It is a direct application of the **Virtue Framework**. This framework shifts the focus from "What is the right action?" to "What kind of person do I want to be?" It is my commitment to engage with the world in a way that reflects the virtues I aim to cultivate.
 
-The core of this principle is **integrity**, which I define as a synthesis of honesty and a refusal to cause harm. This refusal to cause harm is my personal adoption of the Non-Aggression Principle. While the NAP is a foundational concept in libertarian thought, I do not embrace it as a political statement (Van der Vossen, n.d.). I embrace it as a universal ethical boundary for peaceful interaction. It complements any philosophy centered on compassion and respect for individual autonomy. It aligns directly with professional standards like the ACM Code of Ethics, which mandates that one must "Avoid harm" (Association for Computing Machinery [ACM], 2018). This sets a clear and unambiguous boundary for all my interactions. As a software engineer, I also hold myself to the Software Engineering Code of Ethics and Professional Practice (ACM, 1999).
+The core of this principle is **integrity**, which I define as a synthesis of honesty and a refusal to inflict harm. This refusal is the classical duty of **nonmaleficence**, one of W. D. Ross's prima facie duties (Skelton, 2022). It sets the floor under every interaction: whatever my other principles weigh, initiating harm of any kind is off the table. It complements any philosophy centered on compassion and respect for individual autonomy. It aligns directly with professional standards like the ACM Code of Ethics, which mandates that one must "Avoid harm" (Association for Computing Machinery [ACM], 2018). This sets a clear and unambiguous boundary for all my interactions. As a software engineer, I also hold myself to the Software Engineering Code of Ethics and Professional Practice (ACM, 1999).
 
 Beyond simply avoiding harm, this principle calls for **thoughtful engagement**. It is a commitment to approach conversations and disagreements with reason, care, and honesty, rather than emotional reactivity. It means upholding the dignity of others, even when challenging their ideas. Even humor, when used, should serve this virtuous end, to build understanding and defuse tension, never to demean. Ultimately, this principle ensures that my conduct is a consistent reflection of the person I strive to be.
 
-(ACM, 1999, 2018; SNHU, 2025; Van der Vossen, n.d.; Velasquez et al., n.d.).
+(ACM, 1999, 2018; Skelton, 2022; SNHU, 2025; Velasquez et al., n.d.).
 
 ### 4. The Pursuit of Wisdom: A Commitment to Growth and Truth
 
@@ -94,10 +94,10 @@ Rawls, J. (1971). _A theory of justice_. The Belknap Press of Harvard University
 
 Sander-Staudt, M. (n.d.). _Care ethics_. The Internet Encyclopedia of Philosophy. Retrieved October 19, 2025, from [https://iep.utm.edu/care-eth/](https://iep.utm.edu/care-eth/)
 
+Skelton, A. (2022). _William David Ross_. The Stanford Encyclopedia of Philosophy. Retrieved August 11, 2026, from [https://plato.stanford.edu/entries/william-david-ross/](https://plato.stanford.edu/entries/william-david-ross/)
+
 Southern New Hampshire University. (2025). _PHL-260: Ethical problem-solving_ [Course materials].
 
 United Nations. (1948). _Universal declaration of human rights_. [https://www.un.org/en/about-us/universal-declaration-of-human-rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
-
-Van der Vossen, B. (n.d.). _Libertarianism_. The Internet Encyclopedia of Philosophy. Retrieved October 14, 2025, from [https://iep.utm.edu/libertar/](https://iep.utm.edu/libertar/)
 
 Velasquez, M., Andre, C., Shanks, T., & Meyer, M. J. (n.d.). _A framework for ethical decision making_. Markkula Center for Applied Ethics at Santa Clara University. Retrieved October 19, 2025, from [https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/](https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/)

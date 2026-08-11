@@ -4,6 +4,10 @@ All notable changes to this framework are documented in this file.
 
 This project follows semantic versioning (MAJOR.MINOR.PATCH). See `CLAUDE.md` for the full versioning rules.
 
+## [2.2.0] - 2026-08-11
+
+Replaced the Non-Aggression Principle in Principle 3 with nonmaleficence, the duty not to harm or injure others. The old label drew its line only at force and fraud, and carried a political lineage the framework had to disclaim. Nonmaleficence covers every kind of harm and matches the principle's own words, a refusal to inflict harm. Added the Skelton reference for W. D. Ross's prima facie duties. Removed the Van der Vossen reference with the NAP passage it supported. This is a MINOR revision.
+
 ## [2.1.0] - 2026-06-26
 
 Added two ACM references and cited them in Principle 3. Added the ACM Code of Ethics and Professional Conduct (2018) for the "Avoid harm" boundary. Added the Software Engineering Code of Ethics and Professional Practice (1999) as the profession-specific standard the author follows as a software engineer. Moved the Van der Vossen citation to the Non-Aggression Principle sentence it supports. This is a MINOR revision.
