@@ -4,6 +4,10 @@ All notable changes to this framework are documented in this file.
 
 This project follows semantic versioning (MAJOR.MINOR.PATCH). See `CLAUDE.md` for the full versioning rules.
 
+## [2.4.0] - 2026-08-11
+
+Revised the harm policy to version 1.1.0. The definitions now include intent and careless risk. The threat definition follows the true threat doctrine, so hyperbole and jokes do not qualify. Initiation now requires intent, covers any medium, and includes fraud and engineered provocation. Defense keys on reasonable perception of a threat rather than the attacker's hidden state of mind. A new Dependencies section names the terms the adopting framework must define. Added two legal references, Watts v. United States and Counterman v. Colorado. The framework adopts the policy in whole, so the policy revision expands Principle 3. This is a MINOR revision.
+
 ## [2.3.0] - 2026-08-11
 
 Added a standalone policy document, `policies/harm.md`, stating the framework's harm rule in full. The policy opens with definitions of harm, threat, initiation, and consent. Its rules bar initiating harm and careless risk, then set three conditions for justified defense. The defensive license ends when the threat ends and never transfers to grievance or group. Principle 3 now adopts the policy by reference. The policy carries its own References section, citing Feinberg, McMahan, and Skelton. It is written in a neutral voice so others can copy it without adopting the framework. Also removed a stale version number from the principles introduction, which still read 2.1.0. The document heading remains the single home for the current version. This is a MINOR revision.
