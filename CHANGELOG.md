@@ -4,6 +4,10 @@ All notable changes to this framework are documented in this file.
 
 This project follows semantic versioning (MAJOR.MINOR.PATCH). See `CLAUDE.md` for the full versioning rules.
 
+## [2.3.0] - 2026-08-11
+
+Added a standalone policy document, `policies/harm.md`, stating the framework's harm rule in full. The policy opens with definitions of harm, threat, initiation, and consent. Its rules bar initiating harm and careless risk, then set three conditions for justified defense. The defensive license ends when the threat ends and never transfers to grievance or group. Principle 3 now adopts the policy by reference. The policy carries its own References section, citing Feinberg, McMahan, and Skelton. It is written in a neutral voice so others can copy it without adopting the framework. Also removed a stale version number from the principles introduction, which still read 2.1.0. The document heading remains the single home for the current version. This is a MINOR revision.
+
 ## [2.2.0] - 2026-08-11
 
 Replaced the Non-Aggression Principle in Principle 3 with nonmaleficence, the duty not to harm or injure others. The old label drew its line only at force and fraud, and carried a political lineage the framework had to disclaim. Nonmaleficence covers every kind of harm and matches the principle's own words, a refusal to inflict harm. Added the Skelton reference for W. D. Ross's prima facie duties. Removed the Van der Vossen reference with the NAP passage it supported. This is a MINOR revision.

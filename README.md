@@ -5,6 +5,7 @@ A personal moral and ethical framework built on five formal ethical systems stud
 ## Structure
 
 - `framework.md` contains the framework itself.
+- `policies/` contains standalone policies the framework adopts, starting with `harm.md`.
 - `CLAUDE.md` contains the writing and revision rules for this repository.
 - `CHANGELOG.md` records the changes for each version.
 - `docs/` contains repository guides, including how to tag releases.

@@ -1,4 +1,4 @@
-# My Moral Framework - Version 2.2.0
+# My Moral Framework - Version 2.3.0
 
 ## Preamble
 
@@ -42,7 +42,7 @@ To figure out what is truly fair, Rawls gave us a powerful thought experiment ca
 
 ## My Guiding Principles: A Synthesis
 
-The principles that follow are the rebuilt version 2.1.0 of my ethical framework. They are my attempt to synthesize my personal intuition with the insights of the formal frameworks I have studied. Each principle builds on the one before it. It starts with the bedrock of justice and moves toward its application in the real world.
+The principles that follow are the rebuilt version of my ethical framework. They are my attempt to synthesize my personal intuition with the insights of the formal frameworks I have studied. Each principle builds on the one before it. It starts with the bedrock of justice and moves toward its application in the real world.
 
 ### 1. Justice Through the Veil of Ignorance
 
@@ -66,7 +66,7 @@ Ultimately, justice tells me what is _fair_. This principle of compassionate act
 
 With a foundation of justice and a guide of compassion, this third principle governs the _character_ of my actions and interactions. It is a direct application of the **Virtue Framework**. This framework shifts the focus from "What is the right action?" to "What kind of person do I want to be?" It is my commitment to engage with the world in a way that reflects the virtues I aim to cultivate.
 
-The core of this principle is **integrity**, which I define as a synthesis of honesty and a refusal to inflict harm. This refusal is the classical duty of **nonmaleficence**, one of W. D. Ross's prima facie duties (Skelton, 2022). It sets the floor under every interaction: whatever my other principles weigh, initiating harm of any kind is off the table. It complements any philosophy centered on compassion and respect for individual autonomy. It aligns directly with professional standards like the ACM Code of Ethics, which mandates that one must "Avoid harm" (Association for Computing Machinery [ACM], 2018). This sets a clear and unambiguous boundary for all my interactions. As a software engineer, I also hold myself to the Software Engineering Code of Ethics and Professional Practice (ACM, 1999).
+The core of this principle is **integrity**, which I define as a synthesis of honesty and a refusal to inflict harm. This refusal is the classical duty of **nonmaleficence**, one of W. D. Ross's prima facie duties (Skelton, 2022). It sets the floor under every interaction: whatever my other principles weigh, initiating harm of any kind is off the table. It complements any philosophy centered on compassion and respect for individual autonomy. It aligns directly with professional standards like the ACM Code of Ethics, which mandates that one must "Avoid harm" (Association for Computing Machinery [ACM], 2018). This sets a clear and unambiguous boundary for all my interactions. The full statement of that boundary lives in a companion policy, [The Harm Boundary](policies/harm.md). This framework adopts the policy in whole. It defines harm, initiation, and consent, and it sets the conditions for justified defense. As a software engineer, I also hold myself to the Software Engineering Code of Ethics and Professional Practice (ACM, 1999).
 
 Beyond simply avoiding harm, this principle calls for **thoughtful engagement**. It is a commitment to approach conversations and disagreements with reason, care, and honesty, rather than emotional reactivity. It means upholding the dignity of others, even when challenging their ideas. Even humor, when used, should serve this virtuous end, to build understanding and defuse tension, never to demean. Ultimately, this principle ensures that my conduct is a consistent reflection of the person I strive to be.
 
