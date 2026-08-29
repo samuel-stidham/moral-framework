@@ -1,4 +1,4 @@
-# My Moral Framework - Version 3.0.0
+# My Moral Framework - Version 4.0.0
 
 ## Preamble
 
@@ -66,13 +66,13 @@ Ultimately, justice tells me what is _fair_. This principle of compassionate act
 
 With a foundation of justice and a guide of compassion, this third principle governs the _character_ of my actions and interactions. It is a direct application of the **Virtue Framework**. This framework shifts the focus from "What is the right action?" to "What kind of person do I want to be?" It is my commitment to engage with the world in a way that reflects the virtues I aim to cultivate.
 
-The core of this principle is **integrity**, which I define as a synthesis of honesty and a refusal to inflict harm. This refusal is the classical duty of **nonmaleficence**, one of W. D. Ross's prima facie duties (Skelton, 2022). It sets the floor under every interaction, and my other principles do not get to trade it away. Harm I intend or carelessly impose is off the table, unless the policy permits it. It complements any philosophy centered on compassion and respect for individual autonomy. It aligns directly with professional standards like the ACM Code of Ethics, which mandates that one must "Avoid harm" (Association for Computing Machinery [ACM], 2018). This sets a clear and unambiguous boundary for all my interactions. The full statement of that boundary lives in a companion policy, [The Harm Boundary](policies/harm.md). This framework adopts the policy in whole. It defines harm, danger, and consent, and it sets the conditions for a licensed response. As a software engineer, I also hold myself to the Software Engineering Code of Ethics and Professional Practice (ACM, 1999).
+The core of this principle is **integrity**, which I define as a synthesis of honesty and a refusal to inflict harm. It sets the floor under every interaction. Violating another person's human rights is off the table, whatever my other principles weigh. It complements any philosophy centered on compassion and respect for individual autonomy. It aligns directly with professional standards like the ACM Code of Ethics, which mandates that one must "Avoid harm" (Association for Computing Machinery [ACM], 2018). This sets a clear and unambiguous boundary for all my interactions. The full statement of that boundary lives in a companion policy, [The Harm Boundary](policies/harm.md). This framework adopts the policy in whole. It defines harm as the violation of a person's human rights, and it holds the state to that same boundary. As a software engineer, I also hold myself to the Software Engineering Code of Ethics and Professional Practice (ACM, 1999).
 
-That boundary carries one line I will not cross. We should never take on ourselves the right to end another person's life. This is not about immediate danger. Defending myself or another person from a live threat is a different question, and I accept it. This is about killing an institution chooses, with time to choose otherwise. A person's own choice about their own death is not this. That belongs to them. We are fallible, and corruption exists. We can never be certain that nothing went wrong somewhere in the process. People have been put to death for things they did not do. Even in the most egregious cases, we are not the people we would execute. We are better than them. The boundary policy states this bar in Rule V1, which reaches past the courts. It also bars institutions from specific acts, drawn from the Universal Declaration of Human Rights (United Nations, 1948). No institution's own law may move those bars.
+That boundary carries one line I will not cross. I disagree with capital punishment. We should never take on ourselves the right to end another person's life. Defending myself or another person from a live danger is a different question, and I accept it. What I mean here is killing an institution chooses, with time to choose otherwise. A person's own choice about their own death is not this. That belongs to them. We are fallible, and corruption exists. We can never be certain that nothing went wrong somewhere in the process. People have been put to death for things they did not do. Even in the most egregious cases, we are not the people we would execute. We are better than them. The boundary policy protects life against arbitrary deprivation (United Nations, 1948). That floor is the minimum every person is owed, and it binds every government. My refusal goes further, and it does not contradict that floor. Holding more than the minimum is no departure from it. The Covenant reads the same way, since nothing in it may be invoked to delay abolition (United Nations General Assembly, 1966, art. 6[6]).
 
 Beyond simply avoiding harm, this principle calls for **thoughtful engagement**. It is a commitment to approach conversations and disagreements with reason, care, and honesty, rather than emotional reactivity. It means upholding the dignity of others, even when challenging their ideas. Even humor, when used, should serve this virtuous end, to build understanding and defuse tension, never to demean. Ultimately, this principle ensures that my conduct is a consistent reflection of the person I strive to be.
 
-(ACM, 1999, 2018; Skelton, 2022; SNHU, 2025; United Nations, 1948; Velasquez et al., n.d.).
+(ACM, 1999, 2018; SNHU, 2025; United Nations, 1948; United Nations General Assembly, 1966; Velasquez et al., n.d.).
 
 ### 4. The Pursuit of Wisdom: A Commitment to Growth and Truth
 
@@ -96,10 +96,10 @@ Rawls, J. (1971). _A theory of justice_. The Belknap Press of Harvard University
 
 Sander-Staudt, M. (n.d.). Care ethics. In _The Internet encyclopedia of philosophy_. Retrieved October 19, 2025, from [https://iep.utm.edu/care-eth/](https://iep.utm.edu/care-eth/)
 
-Skelton, A. (2022). William David Ross. In _The Stanford encyclopedia of philosophy_. Retrieved August 11, 2026, from [https://plato.stanford.edu/entries/william-david-ross/](https://plato.stanford.edu/entries/william-david-ross/)
-
 Southern New Hampshire University. (2025). _PHL-260: Ethical problem-solving_ [Course materials].
 
 United Nations. (1948). _Universal declaration of human rights_. [https://www.un.org/en/about-us/universal-declaration-of-human-rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
+
+United Nations General Assembly. (1966). [_International Covenant on Civil and Political Rights_](https://2covenants.ohchr.org/About-ICCPR.html) (Resolution 2200A [XXI]). Retrieved August 29, 2026.
 
 Velasquez, M., Andre, C., Shanks, T., & Meyer, M. J. (n.d.). _A framework for ethical decision making_. Markkula Center for Applied Ethics at Santa Clara University. Retrieved October 19, 2025, from [https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/](https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/)
