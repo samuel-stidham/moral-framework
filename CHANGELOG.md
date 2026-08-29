@@ -6,7 +6,7 @@ This project follows semantic versioning (MAJOR.MINOR.PATCH). See `CLAUDE.md` fo
 
 ## [3.0.0] - 2026-08-29
 
-Replaced the harm policy with version 4.0.0, written in my own voice. The previous policy tried to define harm from scratch, and grew to ten institutional bars, a two-track structure, and five delegated terms. Five rounds of adversarial review kept finding defects at its seams. The new policy defines harm by reference instead. Harm is the violation of a person's human rights, and the Universal Declaration supplies the account of those rights. That removes the need to enumerate, define, and qualify.
+Replaced the harm policy with version 3.0.0, written in my own voice. The previous policy tried to define harm from scratch, and grew to ten institutional bars, a two-track structure, and five delegated terms. Five rounds of adversarial review kept finding defects at its seams. The new policy defines harm by reference instead. Harm is the violation of a person's human rights, and the Universal Declaration supplies the account of those rights. That removes the need to enumerate, define, and qualify.
 
 The policy takes its structure from the Declaration of Independence. That text holds that people have unalienable rights, and that government exists to secure them. It uses Locke to explain where the state's authority comes from. That authority is a surrender of private enforcement. The rights themselves stay with the people. It uses the International Covenant on Civil and Political Rights for the protections that hold even during an emergency. National law is treated as where rights usually become enforceable. A law permitting a rights violation shows what a government allows, never what is right.
 

@@ -1,4 +1,4 @@
-# My Moral Framework - Version 4.0.0
+# My Moral Framework - Version 3.0.0
 
 ## Preamble
 

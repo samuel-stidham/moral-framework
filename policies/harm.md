@@ -1,4 +1,4 @@
-# The Harm Boundary - Version 4.0.0
+# The Harm Boundary - Version 3.0.0
 
 This policy defines what I mean when I commit to avoiding harm. It gives that commitment a clear boundary and a consistent application.
 
