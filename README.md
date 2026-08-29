@@ -31,4 +31,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## AI Attribution
 
-This framework was revised with the assistance of Claude AI (Opus 4.6) by Anthropic. All ideas, arguments, ethical reasoning, and cited sources are entirely the author's own. AI was not used to generate, suggest, or influence the content of the framework. Claude's role was limited to grammar and flow improvements, enforcing consistent writing style rules, and providing pushback on logical structure and argument clarity.
+This framework was revised with the assistance of Claude AI (Opus 4.6, Opus 5, and Fable 5) by Anthropic. All ideas, arguments, ethical reasoning, and cited sources are entirely the author's own. AI was not used to generate, suggest, or influence the content of the framework. Claude's role was limited to grammar and flow improvements, enforcing consistent writing style rules, and providing pushback on logical structure and argument clarity.
