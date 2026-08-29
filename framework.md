@@ -94,9 +94,9 @@ Law, S. (2011). _Humanism: A very short introduction_. Oxford University Press.
 
 Rawls, J. (1971). _A theory of justice_. The Belknap Press of Harvard University Press.
 
-Sander-Staudt, M. (n.d.). Care ethics. _The Internet encyclopedia of philosophy_. Retrieved October 19, 2025, from [https://iep.utm.edu/care-eth/](https://iep.utm.edu/care-eth/)
+Sander-Staudt, M. (n.d.). Care ethics. In _The Internet encyclopedia of philosophy_. Retrieved October 19, 2025, from [https://iep.utm.edu/care-eth/](https://iep.utm.edu/care-eth/)
 
-Skelton, A. (2022). William David Ross. _The Stanford encyclopedia of philosophy_. Retrieved August 11, 2026, from [https://plato.stanford.edu/entries/william-david-ross/](https://plato.stanford.edu/entries/william-david-ross/)
+Skelton, A. (2022). William David Ross. In _The Stanford encyclopedia of philosophy_. Retrieved August 11, 2026, from [https://plato.stanford.edu/entries/william-david-ross/](https://plato.stanford.edu/entries/william-david-ross/)
 
 Southern New Hampshire University. (2025). _PHL-260: Ethical problem-solving_ [Course materials].
 
