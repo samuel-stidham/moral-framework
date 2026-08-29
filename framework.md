@@ -1,4 +1,4 @@
-# My Moral Framework - Version 2.5.0
+# My Moral Framework - Version 2.6.0
 
 ## Preamble
 
@@ -10,7 +10,7 @@ Like the first version, this one isn’t meant to be final. It’s a living docu
 
 I know life doesn’t always line up neatly with theory. Real situations are messy. Values collide. So when I face an ethical conflict, this is the process I plan to follow:
 
-1. **Start with minimizing harm.** I’ll look at the possible outcomes and choose the path that upholds fairness and justice while causing the least harm overall.
+1. **Start with minimizing harm.** I’ll look at the possible outcomes and choose the path that upholds fairness and justice while causing the least harm overall. Some paths are closed to me whatever the outcome. The harm boundary rules those out before I weigh anything.
 2. **Understand the context.** Every situation is unique, and I want to make choices that reflect that reality rather than applying rigid rules.
 3. **Reflect and refine.** Afterward, I’ll take time to think about the impact of my decisions. I’ll consider what worked, what didn’t, and how my framework can grow stronger from it.
 
@@ -46,7 +46,7 @@ The principles that follow are the rebuilt version of my ethical framework. They
 
 ### 1. Justice Through the Veil of Ignorance
 
-The cornerstone of my ethical framework is an unwavering commitment to justice and fairness. This principle is a synthesis of three foundational ideas. The first two are the **Rights Framework** and the broader philosophy of **Humanism** (Law, 2011). Together they provide the _what_, the inherent dignity and rights of every individual. These rights are articulated in documents like the **United Nations’ Universal Declaration of Human Rights** (United Nations, 1948). The third is the **Justice Framework**, which provides the _how_. It is the method for ensuring those rights are upheld fairly and impartially.
+The cornerstone of my ethical framework is an unwavering commitment to justice and fairness. This principle is a synthesis of three foundational ideas. The first two are the **Rights Framework** and the broader philosophy of **Humanism** (Law, 2011). Together they provide the _what_, the inherent dignity and rights of every individual. These rights are articulated in documents like the **United Nations’ Universal Declaration of Human Rights** (United Nations, 1948). I support that Declaration in full, all thirty articles, without reservation. It calls itself a common standard of achievement, secured by progressive measures. No nation has reached it, mine included. That is no reason to lower it. It is the standard we keep moving toward, and the measure of whether we are getting better. The third is the **Justice Framework**, which provides the _how_. It is the method for ensuring those rights are upheld fairly and impartially.
 
 My commitment is to view every ethical dilemma through the lens of John Rawls’ "veil of ignorance." Before making a decision that affects others, I imagine I do not know who I would be in this situation. I picture myself as the most vulnerable person affected by the choice. Then I ask: "What would I consider to be the fairest outcome?" This mindset is my primary tool for distributing benefits and burdens equitably. It also helps me respect the fundamental rights and dignity of all individuals involved.
 
@@ -66,11 +66,13 @@ Ultimately, justice tells me what is _fair_. This principle of compassionate act
 
 With a foundation of justice and a guide of compassion, this third principle governs the _character_ of my actions and interactions. It is a direct application of the **Virtue Framework**. This framework shifts the focus from "What is the right action?" to "What kind of person do I want to be?" It is my commitment to engage with the world in a way that reflects the virtues I aim to cultivate.
 
-The core of this principle is **integrity**, which I define as a synthesis of honesty and a refusal to inflict harm. This refusal is the classical duty of **nonmaleficence**, one of W. D. Ross's prima facie duties (Skelton, 2022). It sets the floor under every interaction: whatever my other principles weigh, initiating harm of any kind is off the table. It complements any philosophy centered on compassion and respect for individual autonomy. It aligns directly with professional standards like the ACM Code of Ethics, which mandates that one must "Avoid harm" (Association for Computing Machinery [ACM], 2018). This sets a clear and unambiguous boundary for all my interactions. The full statement of that boundary lives in a companion policy, [The Harm Boundary](policies/harm.md). This framework adopts the policy in whole. It defines harm, danger, and consent, and it sets the conditions for a licensed response. As a software engineer, I also hold myself to the Software Engineering Code of Ethics and Professional Practice (ACM, 1999).
+The core of this principle is **integrity**, which I define as a synthesis of honesty and a refusal to inflict harm. This refusal is the classical duty of **nonmaleficence**, one of W. D. Ross's prima facie duties (Skelton, 2022). It sets the floor under every interaction, and my other principles do not get to trade it away. Harm I intend or carelessly impose is off the table, unless the policy permits it. It complements any philosophy centered on compassion and respect for individual autonomy. It aligns directly with professional standards like the ACM Code of Ethics, which mandates that one must "Avoid harm" (Association for Computing Machinery [ACM], 2018). This sets a clear and unambiguous boundary for all my interactions. The full statement of that boundary lives in a companion policy, [The Harm Boundary](policies/harm.md). This framework adopts the policy in whole. It defines harm, danger, and consent, and it sets the conditions for a licensed response. As a software engineer, I also hold myself to the Software Engineering Code of Ethics and Professional Practice (ACM, 1999).
+
+That boundary carries one line I will not cross. We should never take on ourselves the right to end another person's life. This is not about immediate danger. Defending myself or another person from a live threat is a different question, and I accept it. This is about systemic killing, carried out slowly through a legal system. We are fallible, and corruption exists. We can never be certain that nothing went wrong somewhere in the process. People have been put to death for things they did not do. Even in the most egregious cases, we are not the people we would execute. We are better than them. The boundary policy states this bar in Rule V1. It also bars institutions from specific acts, drawn from the Universal Declaration of Human Rights (United Nations, 1948). No institution's own law may move those bars.
 
 Beyond simply avoiding harm, this principle calls for **thoughtful engagement**. It is a commitment to approach conversations and disagreements with reason, care, and honesty, rather than emotional reactivity. It means upholding the dignity of others, even when challenging their ideas. Even humor, when used, should serve this virtuous end, to build understanding and defuse tension, never to demean. Ultimately, this principle ensures that my conduct is a consistent reflection of the person I strive to be.
 
-(ACM, 1999, 2018; Skelton, 2022; SNHU, 2025; Velasquez et al., n.d.).
+(ACM, 1999, 2018; Skelton, 2022; SNHU, 2025; United Nations, 1948; Velasquez et al., n.d.).
 
 ### 4. The Pursuit of Wisdom: A Commitment to Growth and Truth
 
@@ -92,9 +94,9 @@ Law, S. (2011). _Humanism: A very short introduction_. Oxford University Press.
 
 Rawls, J. (1971). _A theory of justice_. The Belknap Press of Harvard University Press.
 
-Sander-Staudt, M. (n.d.). _Care ethics_. The Internet Encyclopedia of Philosophy. Retrieved October 19, 2025, from [https://iep.utm.edu/care-eth/](https://iep.utm.edu/care-eth/)
+Sander-Staudt, M. (n.d.). Care ethics. _The Internet Encyclopedia of Philosophy_. Retrieved October 19, 2025, from [https://iep.utm.edu/care-eth/](https://iep.utm.edu/care-eth/)
 
-Skelton, A. (2022). _William David Ross_. The Stanford Encyclopedia of Philosophy. Retrieved August 11, 2026, from [https://plato.stanford.edu/entries/william-david-ross/](https://plato.stanford.edu/entries/william-david-ross/)
+Skelton, A. (2022). William David Ross. _The Stanford Encyclopedia of Philosophy_. Retrieved August 11, 2026, from [https://plato.stanford.edu/entries/william-david-ross/](https://plato.stanford.edu/entries/william-david-ross/)
 
 Southern New Hampshire University. (2025). _PHL-260: Ethical problem-solving_ [Course materials].
 

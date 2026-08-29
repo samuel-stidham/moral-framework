@@ -6,7 +6,7 @@ This guide explains how to tag a release in this repository. It covers the `Make
 
 Releases are tagged from the changelog. The script reads the latest entry in `CHANGELOG.md`. It then creates an annotated git tag named after that version. The tag message is the changelog notes for that version, so each tag records what changed.
 
-Versioning here is framework-only. The version tracks the content of `framework.md`. Tooling changes do not bump the version. See `CLAUDE.md` for the full versioning rules.
+Versioning here is framework-only. The version tracks the content of `framework.md`. A revision to a file under `policies/` is versioned twice. The policy carries its own MAJOR, MINOR, or PATCH number in its heading. The framework version then moves by what the revision does to `framework.md` itself, judged against the tiers in `CLAUDE.md`. A MAJOR policy revision does not by itself make a MAJOR framework revision. Tooling changes do not bump the version. See `CLAUDE.md` for the full versioning rules.
 
 ## Prerequisites
 
