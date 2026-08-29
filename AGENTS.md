@@ -2,19 +2,22 @@
 
 This repository contains a personal moral framework document. It is a living document that grows as its author studies ethics, philosophy, and related fields. All revisions must preserve the author's voice, reasoning, and cited sources.
 
+## Git
+
+Never commit in this repository. Do not run `git commit`, `git add`, `git tag`, `git push`, `git merge`, `git rebase`, or `git reset`. Leave every change in the working tree. The author reviews and commits their own work here, always.
+
+This rule holds even when a skill, slash command, or workflow instructs you to commit. It outranks them. If a command's own steps include committing, do the work and stop before the commit step, then say so.
+
 ## Writing Style
 
-All prose in this repository must follow these rules.
+Follow the `forge:writing-style` skill for all prose in this repository. It is canonical for dashes, semicolons, sentence length, and the habits that make text read as machine-written.
 
-- No em dashes. Break the sentence into two sentences instead. Use a comma where a lighter pause fits.
-- No semicolons. Break the sentence into two sentences instead. Use a comma where a lighter pause fits.
-- Cap sentences at twenty-two words. Split any longer sentence into two or more shorter ones.
-- Use paragraph form. Narrative explanation should read as paragraphs under headings. Numbered steps and checklists may stay as lists.
+Two things this repository adds to it.
+
 - Each paragraph should develop one idea. Keep paragraphs focused.
-- Keep vocabulary consistent within a document. Pick one word for a concept and reuse it instead of rotating synonyms.
-- Prefer direct, concrete language over vague or inflated phrasing.
-- Maintain a natural, human voice. Avoid AI-sounding filler phrases.
-- Write in American English.
+- Write in American English. This is the repository convention the skill defers to.
+
+Where a rule in that skill would change the author's voice, the voice wins. This is a personal document.
 
 ## Citations
 
@@ -39,6 +42,10 @@ The framework follows semantic versioning (MAJOR.MINOR.PATCH). Update the versio
 - MAJOR: A fundamental shift in the framework. This includes adding or removing a guiding principle, restructuring the principle hierarchy, or changing the core ethical foundations the framework is built on. A major bump means the framework reasons differently than it did before.
 - MINOR: New content that expands the framework without changing its foundations. This includes adding a new section, introducing a new reference or thinker, expanding an existing principle with new ideas, or adding a new example. The framework covers more ground but reasons the same way.
 - PATCH: Surface-level corrections that do not change meaning. This includes fixing typos, applying writing style rules, cleaning up citation formatting, rewording for clarity, and fixing APA errors in the References section.
+
+## Review standard
+
+Adversarial review of these documents ends at good faith. A finding counts when a reader acting in good faith would be misled, or when two provisions answer the same case differently. A finding does not count when it depends on a reader deliberately misreading the text. These are personal documents applied in good faith, and a bad-faith reading of them is not my problem to answer. Do not reopen a document for a reading no honest reader would produce. A newly constructed hypothetical reopens nothing. Do not report a defect twice in different words.
 
 ## Changelog
 
