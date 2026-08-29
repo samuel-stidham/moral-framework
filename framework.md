@@ -1,4 +1,4 @@
-# My Moral Framework - Version 2.6.0
+# My Moral Framework - Version 3.0.0
 
 ## Preamble
 
@@ -42,7 +42,7 @@ To figure out what is truly fair, Rawls gave us a powerful thought experiment ca
 
 ## My Guiding Principles: A Synthesis
 
-The principles that follow are the rebuilt version of my ethical framework. They are my attempt to synthesize my personal intuition with the insights of the formal frameworks I have studied. Each principle builds on the one before it. The harm boundary is the floor under all four, not a rival to them. It starts with the bedrock of justice and moves toward its application in the real world.
+The principles that follow are the rebuilt version of my ethical framework. They are my attempt to synthesize my personal intuition with the insights of the formal frameworks I have studied. Each principle builds on the one before it. The harm boundary is the floor under all four, and it outranks every one of them. It starts with the bedrock of justice and moves toward its application in the real world.
 
 ### 1. Justice Through the Veil of Ignorance
 
