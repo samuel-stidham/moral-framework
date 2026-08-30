@@ -4,6 +4,12 @@ All notable changes to this framework are documented in this file.
 
 This project follows semantic versioning (MAJOR.MINOR.PATCH). See `CLAUDE.md` for the full versioning rules.
 
+## [3.0.1] - 2026-08-29
+
+Rearranged Principle 1 without changing what it says. The Declaration passage sat inside the enumeration of three foundational ideas, so eleven sentences separated "the first two" from "the third." It now has its own paragraph, and the enumeration closes in four sentences.
+
+Also removed two sentences that described the previous policy. They said the boundary policy drew a floor from part of the Declaration. That was true of the ten-bar version, and it is not true of this one. The policy now uses the whole Declaration as its account of rights. The harm policy is unchanged and stays at 3.0.0. This is a PATCH revision.
+
 ## [3.0.0] - 2026-08-29
 
 Replaced the harm policy with version 3.0.0, written in my own voice. The previous policy tried to define harm from scratch, and grew to ten institutional bars, a two-track structure, and five delegated terms. Five rounds of adversarial review kept finding defects at its seams. The new policy defines harm by reference instead. Harm is the violation of a person's human rights, and the Universal Declaration supplies the account of those rights. That removes the need to enumerate, define, and qualify.

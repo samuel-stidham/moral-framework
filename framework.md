@@ -1,4 +1,4 @@
-# My Moral Framework - Version 3.0.0
+# My Moral Framework - Version 3.0.1
 
 ## Preamble
 
@@ -46,7 +46,9 @@ The principles that follow are the rebuilt version of my ethical framework. They
 
 ### 1. Justice Through the Veil of Ignorance
 
-The cornerstone of my ethical framework is an unwavering commitment to justice and fairness. This principle is a synthesis of three foundational ideas. The first two are the **Rights Framework** and the broader philosophy of **Humanism** (Law, 2011). Together they provide the _what_, the inherent dignity and rights of every individual. These rights are articulated in documents like the **United Nations’ Universal Declaration of Human Rights** (United Nations, 1948). I support that Declaration in full, all thirty articles, without reservation. It calls itself a common standard of achievement, secured by progressive measures. No nation has reached it, mine included. That is no reason to lower it. It is the standard we keep moving toward, and the measure of whether we are getting better. The boundary policy draws a floor from part of it. Supporting the whole is a wider commitment than that floor. The third is the **Justice Framework**, which provides the _how_. It is the method for ensuring those rights are upheld fairly and impartially.
+The cornerstone of my ethical framework is an unwavering commitment to justice and fairness. This principle is a synthesis of three foundational ideas. The first two are the **Rights Framework** and the broader philosophy of **Humanism** (Law, 2011). Together they provide the _what_, the inherent dignity and rights of every individual. These rights are articulated in documents like the **United Nations’ Universal Declaration of Human Rights** (United Nations, 1948). The third is the **Justice Framework**, which provides the _how_. It is the method for ensuring those rights are upheld fairly and impartially.
+
+I support that Declaration in full, all thirty articles, without reservation. It calls itself a common standard of achievement, secured by progressive measures. No nation has reached it, mine included. That is no reason to lower it. It is the standard we keep moving toward, and the measure of whether we are getting better.
 
 My commitment is to view every ethical dilemma through the lens of John Rawls’ "veil of ignorance." Before making a decision that affects others, I imagine I do not know who I would be in this situation. I picture myself as the most vulnerable person affected by the choice. Then I ask: "What would I consider to be the fairest outcome?" This mindset is my primary tool for distributing benefits and burdens equitably. It also helps me respect the fundamental rights and dignity of all individuals involved.
 
